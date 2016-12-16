@@ -1,1 +1,8 @@
-#12/9/2016, 11:02:43 AM
+## Images
+
+### Static Image
+![this is the alt text](./image/ATA_config_icon.JPG)
+
+### Linked Image
+
+[![alt text for linked image](./image/ATA_Domain_Connectivity_User.JPG)](https://azure.microsoft.com) 
